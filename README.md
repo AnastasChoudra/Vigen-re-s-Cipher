@@ -120,5 +120,3 @@ Please follow the existing style (Black + type hints) and add tests for new beha
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
-
-If you'd like, I can add a short `CONTRIBUTING.md`, examples folder, or a small demo notebook — which would you prefer next?
